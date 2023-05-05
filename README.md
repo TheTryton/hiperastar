@@ -14,7 +14,7 @@ JGraphT library supports Serialization for all types of graphs (assuming that th
 
 ## References
 
-* [JGRaphT](https://jgrapht.org/) - RoadMap implements Graph interface JGraphT allowing to run complex algorithms supplied by this library
+* [JGraphT](https://jgrapht.org/) - RoadMap implements Graph interface JGraphT allowing to run complex algorithms supplied by this library
 
 ## Example
 
